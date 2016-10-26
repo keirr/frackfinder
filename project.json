@@ -1,0 +1,6 @@
+{
+  "name": "Frack Finder",
+  "short_name": "frackfinder",
+  "description": "Image pattern recognition",
+  "question": "Do you see a frack site in the image below?"
+}
